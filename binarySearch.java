@@ -1,5 +1,5 @@
-// Java Program to read an Array of n elements and implement 
-BINARY SEARCH using Array class methods//
+// Java Program to read an Array of n elements and implement //
+//BINARY SEARCH using Array class methods//
 
 import java.util.Arrays;
 import java.util.*;
